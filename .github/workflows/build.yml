@@ -1,5 +1,7 @@
 name: Build
 
+on: push
+
 env:
   BUILD_PROFILE: release
   CARGO_BIN_NAME: bstool
