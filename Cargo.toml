@@ -1,0 +1,9 @@
+[package]
+name = "bstool"
+version = "1.0.0"
+license = "MIT"
+edition = "2021"
+description = "Tool for Wii's BootStage images."
+
+[dependencies]
+argp = "0.3"

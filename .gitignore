@@ -1,0 +1,10 @@
+debug/
+target/
+.vscode/
+build.bat
+*.app
+*.elf
+*.dol
+*.dtk
+*.bin
+
