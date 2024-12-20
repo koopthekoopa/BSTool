@@ -22,7 +22,7 @@ const STUB_DEFAULT_SIZE : u32 = 0x00010000;
 
 const INIT_MEM_BOUND_START : u32 = 0x81330000;
 const UNINIT_MEM_BOUND_START : u32 = 0x81080000;
-const MEM_BOUND_END : u32 = 0x816A0000; // AFAIK no existing boot stage exceeds that boundary.
+const MEM_BOUND_END : u32 = 0x816D0000; // AFAIK no existing boot stage exceeds that boundary.
 
 const BS2_PAD : u32 = 0x20;
 
